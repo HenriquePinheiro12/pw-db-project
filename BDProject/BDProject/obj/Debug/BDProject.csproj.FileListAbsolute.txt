@@ -1,0 +1,168 @@
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\BDProject.dll.config
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\BDProject.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\BDProject.pdb
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\csc.exe
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\csc.exe.config
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\csc.rsp
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\csi.exe
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\csi.exe.config
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\csi.rsp
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.AppContext.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Console.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\vbc.exe
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\vbc.exe.config
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\vbc.rsp
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\obj\Debug\BDProject.csprojAssemblyReference.cache
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\obj\Debug\BDProject.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\obj\Debug\BDProject.csproj.CopyComplete
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\obj\Debug\BDProject.dll
+C:\Users\Lab_ETESP\Desktop\henry\BDProject\BDProject\obj\Debug\BDProject.pdb
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\BDProject.dll.config
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\BDProject.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\BDProject.pdb
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\csc.exe
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\csc.exe.config
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\csc.rsp
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\csi.exe
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\csi.exe.config
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\csi.rsp
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.AppContext.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Console.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\vbc.exe.config
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\vbc.rsp
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\obj\Debug\BDProject.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\obj\Debug\BDProject.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\obj\Debug\BDProject.csproj.CopyComplete
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\obj\Debug\BDProject.dll
+C:\Users\user\OneDrive - Etec Centro Paula Souza\working\BD\BDProject\BDProject\obj\Debug\BDProject.pdb
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\BDProject.dll.config
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\BDProject.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\BDProject.pdb
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\csc.exe
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\csc.exe.config
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\csc.rsp
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\csi.exe
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\csi.exe.config
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\csi.rsp
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.AppContext.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Console.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\vbc.exe
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\vbc.exe.config
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\vbc.rsp
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\obj\Debug\BDProject.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\obj\Debug\BDProject.csproj.CopyComplete
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\obj\Debug\BDProject.dll
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\obj\Debug\BDProject.pdb
+C:\Users\Lab_ETESP\Desktop\pw\ASP.net project\BDProject\BDProject\obj\Debug\BDProject.csprojAssemblyReference.cache
